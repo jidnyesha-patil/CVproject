@@ -28,7 +28,7 @@ Fig 2: Face recognition using FaceNET
 To reduce the computational cost for larger dataset, Principal Component Analysis was implemented. Collected data was pre-processed and projected onto a small feature space, thus providing dimensional reduction. Furthermore, eigenfaces were used to produce a weighted feature vector which is used for PCA analysis. Using this, 97% accuracy was achieved.
 
 <p align = "center">
-<img src = "Images/PCAresults2.png" width="375" height="223"> <img src = "Images/PCAresults.png">
+<img src = "Images/PCAresults2.png" width="375" height="223"><img src = "Images/PCAresults.png">
 </p>
 <p align = "center">
 Fig 3: Face recognition using PCA  
