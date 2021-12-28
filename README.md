@@ -10,7 +10,7 @@ Face recognition at the beginning of a therapy session is necessary for storing 
 
 For this, MediaPipe API was used which resulted in an accuracy of 100%. Using this, it can be determined whether the person in focus is 'studying' or 'looking here and there'.
 
-![Getting Started](./Pose_recognition/pose1.jpg)
+![](Images/pose1.jpg)
 
 ## Application
 
