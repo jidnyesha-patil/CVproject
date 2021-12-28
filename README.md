@@ -22,7 +22,7 @@ Face recognition at the beginning of a therapy session is necessary for storing 
 <img src = "Images/FRresult.png" Fig 1> 
 </p>
 <p align = "center">
-Fig 2: FaceNET result
+Fig 2: Face recognition using FaceNET
 </p>
 
 To reduce the computational cost for larger dataset, Principal Component Analysis was implemented. Collected data was pre-processed and projected onto a small feature space, thus providing dimensional reduction. Furthermore, eigenfaces were used to produce a weighted feature vector which is used for PCA analysis. Using this, 97% accuracy was achieved.
@@ -31,7 +31,7 @@ To reduce the computational cost for larger dataset, Principal Component Analysi
 <img src = "Images/PCAresults2.png" width="375" height="223"> <img src = "Images/PCAresults.png">
 </p>
 <p align = "center">
-Fig 3: PCA result 
+Fig 3: Face recognition using PCA  
 </p>
 
 ## Pose Recognition
@@ -42,7 +42,7 @@ For this, MediaPipe API was used which resulted in an accuracy of 100%. Using th
 <img src="Images/Poseresults.png" width="800" height="300">
 </p>
 <p align = "center">
-Fig 4: PCA result 
+Fig 4: Pose classification 
 </p>
 
 ## Application
